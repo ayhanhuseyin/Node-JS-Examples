@@ -1,5 +1,5 @@
 ### Post Sıralama
-Bu çalışmamızda **Async-Awaıt** yapısı kullanarak post sıralama işlemi gerçekleştireceğiz. Postları Fake REST API sunan JSONPlaceholder sitesinden alıcağız. Siteye [Buradan]((https://jsonplaceholder.typicode.com/) erişebilirsinz. 
+Bu çalışmamızda **Async-Awaıt** yapısı kullanarak post sıralama işlemi gerçekleştireceğiz. Postları Fake REST API sunan JSONPlaceholder sitesinden alıcağız. Siteye [Buradan](https://jsonplaceholder.typicode.com/) erişebilirsinz. 
 
 ```JavaScript
 async function getUsers() {
