@@ -1,5 +1,5 @@
 ### FS File System
-Bu çalışmamızda Node.js FS Modülü kullanarak 4 adet çalışma yapapacağız.
+Bu çalışmamızda Node.js FS Modülü kullanarak 4 adet çalışma yapacağız.
 
 ### 1. Dosya oluşturma
 Employees.json dosyası oluşturalım ve içerisine {"name": "Employee 1 Name", "salary": 2000} verisini ekleyelim.
